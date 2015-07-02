@@ -72,8 +72,10 @@ public class stepwork2 {
                System.out.print (" Ok");
                else System.out.print ("Not Ok");
                */
-                
-                
+             
+             /*8 Ввести число и определить кратно ли оно 3, 5, и 7 одновременно if (x%3==0 && x%5==0 && x%7==0 )*/  
+              
+               /*9 Показать модуль введённого числа. Math.abs(n);*/   
                 
             
     
