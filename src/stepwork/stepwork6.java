@@ -21,7 +21,7 @@ public class stepwork6 {
     System.out.println("Загорелш!");
     h++; // +1 ko vremeny
     System.out.println(h);
-    if (h>=3) sunburn = true;
+    if (h>=3) sunburn = true; // когда h станет равно 3 то sunburn присвоит true
     }
     }
     
